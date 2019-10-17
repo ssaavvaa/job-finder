@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{274:function(e,n,a){"use strict";a.r(n);var t=a(0),l=a.n(t),c=a(263),r=a(262),u=a(294),i=a.n(u),o=function(){return l.a.createElement("section",{className:i.a.section},l.a.createElement("div",{className:i.a.container},l.a.createElement("h1",null,"FIND A JOB"),l.a.createElement("h2",null,"HIRE AN EMPLOYEE")))};n.default=function(){return l.a.createElement(c.a,null,l.a.createElement(r.a,{title:"Home"}),l.a.createElement(o,null))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-077455755c41cb4e7e07.js.map
